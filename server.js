@@ -9,7 +9,9 @@ const userdb = JSON.parse(fs.readFileSync('./users.json', 'UTF-8'))
 
 server.use(bodyParser.urlencoded({extended: true}))
 server.use(bodyParser.json())
-server.use(jsonServer.defaults());
+
+const middlewares = jsonServer.defaults();
+const port = process.env.PORT || 8000; // <== You can change the port
 
 const SECRET_KEY = '123456789'
 
@@ -116,8 +118,7 @@ server.use(/^(?!\/auth).*$/,  (req, res, next) => {
   }
 })
 
-server.use(router)
+server.use(middlewares);
+server.use(router);
 
-server.listen(8000, () => {
-  console.log('Run Auth API Server')
-})
+server.listen(port);
