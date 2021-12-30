@@ -2,83 +2,129 @@
   "products": [
     {
       "id": 1,
-      "name": "Product001",
-      "cost": 10,
-      "quantity": 1000,
-      "locationId": 1,
-      "familyId": 1
+      "name": "Bentley Light Body Midnight carbono",
+      "cost": 0.5,
+      "quantity": 95,
+      "categoryId": 1,
+      "url": "https://res.cloudinary.com/dcbqhj7nl/image/upload/v1640834520/react-commerce/clock_0001_01_tyrjvg.png"
     },
     {
       "id": 2,
-      "name": "Product002",
-      "cost": 20,
-      "quantity": 2000,
-      "locationId": 1,
-      "familyId": 2
+      "name": "Chronoswiss Flying Grand Regulator Open Gear ReSec Green",
+      "cost": 1200,
+      "quantity": 45,
+      "categoryId": 1,
+      "url": "https://res.cloudinary.com/dcbqhj7nl/image/upload/v1640834520/react-commerce/clock_0000_02_x3dfmj.png"
     },
     {
       "id": 3,
-      "name": "Product003",
-      "cost": 30,
-      "quantity": 3000,
-      "locationId": 3,
-      "familyId": 2
+      "name": "Pac Man Watche",
+      "cost": 800,
+      "quantity": 140,
+      "categoryId": 2,
+      "url": "https://res.cloudinary.com/dcbqhj7nl/image/upload/v1640834520/react-commerce/clock_0004_13_jx8ahs.png"
     },
     {
       "id": 4,
-      "name": "Product004",
-      "cost": 40,
-      "quantity": 4000,
-      "locationId": 2,
-      "familyId": 3
-    }
-  ],
-  "locations": [
-    {
-      "id": 1,
-      "name": "Location001"
-    },
-    {
-      "id": 2,
-      "name": "Location002"
-    },
-    {
-      "id": 3,
-      "name": "Location003"
-    }
-  ],
-  "families": [
-    {
-      "id": 1,
-      "name": "FM001"
-    },
-    {
-      "id": 2,
-      "name": "FM002"
-    },
-    {
-      "id": 3,
-      "name": "FM003"
-    }
-  ],
-  "transactions": [
-    {
-      "id": 1,
-      "cost": 11,
+      "name": "The Tie Guy",
+      "cost": 960,
       "quantity": 10,
-      "productId": 1
+      "categoryId": 2,
+      "url": "https://res.cloudinary.com/dcbqhj7nl/image/upload/v1640834520/react-commerce/clock_0003_14_foz7oc.png"
+    },
+    {
+      "id": 5,
+      "name": "Seiko astron men watch SBXB025",
+      "cost": 850,
+      "quantity": 10,
+      "categoryId": 1,
+      "url": "https://res.cloudinary.com/dcbqhj7nl/image/upload/v1640834520/react-commerce/clock_0005_12_offu3d.png"
+    },
+    {
+      "id": 6,
+      "name": "Billionaire Boys' Club",
+      "cost": 1500,
+      "quantity": 5,
+      "categoryId": 2,
+      "url": "https://res.cloudinary.com/dcbqhj7nl/image/upload/v1640834520/react-commerce/clock_0002_15_gm2cf6.png"
+    },
+    {
+      "id": 7,
+      "name": "Patek Phillipe",
+      "cost": 1100,
+      "quantity": 5,
+      "categoryId": 3,
+      "url": "https://res.cloudinary.com/dcbqhj7nl/image/upload/v1640834520/react-commerce/clock_0007_10_ktjvwt.png"
+    },
+    {
+      "id": 8,
+      "name": "De Bethune DB28 Kind of Blue",
+      "cost": 690,
+      "quantity": 5,
+      "categoryId": 3,
+      "url": "https://res.cloudinary.com/dcbqhj7nl/image/upload/v1640834520/react-commerce/clock_0006_11_o407mx.png"
+    },
+    {
+      "id": 9,
+      "name": "Baume&Mercier",
+      "cost": 900,
+      "quantity": 15,
+      "categoryId": 3,
+      "url": "https://res.cloudinary.com/dcbqhj7nl/image/upload/v1640834520/react-commerce/clock_0008_08_joeopp.png"
+    },
+    {
+      "id": 10,
+      "name": "Parmigiani",
+      "cost": 550,
+      "quantity": 45,
+      "categoryId": 1,
+      "url": "https://res.cloudinary.com/dcbqhj7nl/image/upload/v1640834520/react-commerce/clock_0011_05_wdqnfa.png"
+    },
+    {
+      "id": 11,
+      "name": "Christophe Claret Maestro Mamba",
+      "cost": 1350,
+      "quantity": 30,
+      "categoryId": 2,
+      "url": "https://res.cloudinary.com/dcbqhj7nl/image/upload/v1640834520/react-commerce/clock_0009_07_hl3rj8.png"
+    },
+    {
+      "id": 12,
+      "name": "Chronoswiss",
+      "cost": 1350,
+      "quantity": 22,
+      "categoryId": 1,
+      "url": "https://res.cloudinary.com/dcbqhj7nl/image/upload/v1640834520/react-commerce/clock_0010_06_flwm9h.png"
+    },
+    {
+      "id": 13,
+      "name": "Chronoswiss",
+      "cost": 800,
+      "quantity": 22,
+      "categoryId": 2,
+      "url": "https://res.cloudinary.com/dcbqhj7nl/image/upload/v1640834521/react-commerce/clock_0012_04_nlgtcq.png"
+    },
+    {
+      "id": 14,
+      "name": "Chronoswiss Flying Grand Regulator",
+      "cost": 1000,
+      "quantity": 22,
+      "categoryId": 2,
+      "url": "https://res.cloudinary.com/dcbqhj7nl/image/upload/v1640834521/react-commerce/clock_0013_03_byrglo.png"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Sport"
     },
     {
       "id": 2,
-      "cost": 12,
-      "quantity": 100,
-      "productId": 2
+      "name": "Casual"
     },
     {
       "id": 3,
-      "cost": 15,
-      "quantity": 101,
-      "productId": 3
+      "name": "Pilot Watches"
     }
   ]
 }
