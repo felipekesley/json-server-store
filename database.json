@@ -5,7 +5,8 @@
       "name": "Bentley Light Body Midnight carbono",
       "slug": "bentley-light-body-midnight-carbono",
       "price": 1,
-      "quantity": 95,
+      "quantity": 0,
+      "stock": 1,
       "categoryId": 1,
       "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
       "url": "https://res.cloudinary.com/dcbqhj7nl/image/upload/v1640834520/react-commerce/clock_0001_01_tyrjvg.png"
@@ -15,7 +16,8 @@
       "name": "Chronoswiss Flying Grand Regulator Open Gear ReSec Green",
       "slug": "chronoswiss-flying-grand-regulator-open-gear-resec-green",
       "price": 1200,
-      "quantity": 45,
+      "quantity": 0,
+      "stock": 2,
       "categoryId": 1,
       "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
       "url": "https://res.cloudinary.com/dcbqhj7nl/image/upload/v1640834520/react-commerce/clock_0000_02_x3dfmj.png"
@@ -25,7 +27,8 @@
       "name": "The Tie Guy",
       "slug": "the-tie-guy",
       "price": 960,
-      "quantity": 10,
+      "quantity": 0,
+      "stock": 10,
       "categoryId": 2,
       "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
       "url": "https://res.cloudinary.com/dcbqhj7nl/image/upload/v1640834520/react-commerce/clock_0003_14_foz7oc.png"
@@ -35,7 +38,8 @@
       "name": "Pac Man Watche",
       "slug": "pac-man-watche",
       "price": 800,
-      "quantity": 140,
+      "quantity": 0,
+      "stock": 1,
       "categoryId": 2,
       "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
       "url": "https://res.cloudinary.com/dcbqhj7nl/image/upload/v1640834520/react-commerce/clock_0004_13_jx8ahs.png"
@@ -45,7 +49,8 @@
       "name": "Seiko astron men watch SBXB025",
       "slug": "seiko-astron-men-watch-sbxb025",
       "price": 850,
-      "quantity": 10,
+      "quantity": 0,
+      "stock": 2,
       "categoryId": 1,
       "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
       "url": "https://res.cloudinary.com/dcbqhj7nl/image/upload/v1640834520/react-commerce/clock_0005_12_offu3d.png"
@@ -55,7 +60,8 @@
       "name": "Billionaire Boys' Club",
       "slug": "billionaire-boys-club",
       "price": 1500,
-      "quantity": 5,
+      "quantity": 0,
+      "stock": 1,
       "categoryId": 2,
       "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
       "url": "https://res.cloudinary.com/dcbqhj7nl/image/upload/v1640834520/react-commerce/clock_0002_15_gm2cf6.png"
@@ -65,7 +71,8 @@
       "name": "Patek Phillipe",
       "slug": "patek-phillipe",
       "price": 1100,
-      "quantity": 5,
+      "quantity": 0,
+      "stock": 2,
       "categoryId": 3,
       "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
       "url": "https://res.cloudinary.com/dcbqhj7nl/image/upload/v1640834520/react-commerce/clock_0007_10_ktjvwt.png"
@@ -75,7 +82,8 @@
       "name": "De Bethune DB28 Kind of Blue",
       "slug": "de-bethune-db28-kind-of-blue",
       "price": 690,
-      "quantity": 5,
+      "quantity": 0,
+      "stock": 10,
       "categoryId": 3,
       "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
       "url": "https://res.cloudinary.com/dcbqhj7nl/image/upload/v1640834520/react-commerce/clock_0006_11_o407mx.png"
@@ -85,7 +93,8 @@
       "name": "Baume&Mercier",
       "slug": "baumemercier",
       "price": 900,
-      "quantity": 15,
+      "quantity": 0,
+      "stock": 10,
       "categoryId": 3,
       "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
       "url": "https://res.cloudinary.com/dcbqhj7nl/image/upload/v1640834520/react-commerce/clock_0008_08_joeopp.png"
@@ -95,7 +104,8 @@
       "name": "Parmigiani",
       "slug": "parmigiani",
       "price": 550,
-      "quantity": 45,
+      "quantity": 0,
+      "stock": 10,
       "categoryId": 1,
       "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
       "url": "https://res.cloudinary.com/dcbqhj7nl/image/upload/v1640834520/react-commerce/clock_0011_05_wdqnfa.png"
@@ -105,7 +115,8 @@
       "name": "Christophe Claret Maestro Mamba",
       "slug": "christophe-claret-maestro-mamba",
       "price": 1350,
-      "quantity": 30,
+      "quantity": 0,
+      "stock": 10,
       "categoryId": 2,
       "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
       "url": "https://res.cloudinary.com/dcbqhj7nl/image/upload/v1640834520/react-commerce/clock_0009_07_hl3rj8.png"
@@ -115,7 +126,8 @@
       "name": "Chronoswiss",
       "slug": "chronoswiss",
       "price": 1350,
-      "quantity": 22,
+      "quantity": 0,
+      "stock": 10,
       "categoryId": 1,
       "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
       "url": "https://res.cloudinary.com/dcbqhj7nl/image/upload/v1640834520/react-commerce/clock_0010_06_flwm9h.png"
@@ -125,7 +137,8 @@
       "name": "Chronoswiss",
       "slug": "chronoswiss-2",
       "price": 800,
-      "quantity": 22,
+      "quantity": 0,
+      "stock": 10,
       "categoryId": 2,
       "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
       "url": "https://res.cloudinary.com/dcbqhj7nl/image/upload/v1640834521/react-commerce/clock_0012_04_nlgtcq.png"
@@ -135,7 +148,8 @@
       "name": "Chronoswiss Flying Grand Regulator",
       "slug": "chronoswiss-flying-grand-regulator",
       "price": 1000,
-      "quantity": 22,
+      "quantity": 0,
+      "stock": 10,
       "categoryId": 2,
       "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
       "url": "https://res.cloudinary.com/dcbqhj7nl/image/upload/v1640834521/react-commerce/clock_0013_03_byrglo.png"
