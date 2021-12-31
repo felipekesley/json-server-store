@@ -3,6 +3,7 @@
     {
       "id": 1,
       "name": "Bentley Light Body Midnight carbono",
+      "slug": "bentley-light-body-midnight-carbono",
       "cost": 0.5,
       "quantity": 95,
       "categoryId": 1,
@@ -11,6 +12,7 @@
     {
       "id": 2,
       "name": "Chronoswiss Flying Grand Regulator Open Gear ReSec Green",
+      "slug": "chronoswiss-flying-grand-regulator-open-gear-resec-green",
       "cost": 1200,
       "quantity": 45,
       "categoryId": 1,
@@ -18,7 +20,17 @@
     },
     {
       "id": 3,
+      "name": "The Tie Guy",
+      "slug": "",
+      "cost": 960,
+      "quantity": 10,
+      "categoryId": 2,
+      "url": "https://res.cloudinary.com/dcbqhj7nl/image/upload/v1640834520/react-commerce/clock_0003_14_foz7oc.png"
+    },
+    {
+      "id": 4,
       "name": "Pac Man Watche",
+      "slug": "pac-man-watche",
       "cost": 800,
       "quantity": 140,
       "categoryId": 2,
@@ -27,6 +39,7 @@
     {
       "id": 4,
       "name": "The Tie Guy",
+      "slug": "the-tie-guy",
       "cost": 960,
       "quantity": 10,
       "categoryId": 2,
@@ -35,6 +48,7 @@
     {
       "id": 5,
       "name": "Seiko astron men watch SBXB025",
+      "slug": "seiko-astron-men-watch-sbxb025",
       "cost": 850,
       "quantity": 10,
       "categoryId": 1,
@@ -43,6 +57,7 @@
     {
       "id": 6,
       "name": "Billionaire Boys' Club",
+      "slug": "billionaire-boys-club",
       "cost": 1500,
       "quantity": 5,
       "categoryId": 2,
@@ -51,6 +66,7 @@
     {
       "id": 7,
       "name": "Patek Phillipe",
+      "slug": "patek-phillipe",
       "cost": 1100,
       "quantity": 5,
       "categoryId": 3,
@@ -59,6 +75,7 @@
     {
       "id": 8,
       "name": "De Bethune DB28 Kind of Blue",
+      "slug": "de-bethune-db28-kind-of-blue",
       "cost": 690,
       "quantity": 5,
       "categoryId": 3,
@@ -67,6 +84,7 @@
     {
       "id": 9,
       "name": "Baume&Mercier",
+      "slug": "baumemercier",
       "cost": 900,
       "quantity": 15,
       "categoryId": 3,
@@ -75,6 +93,7 @@
     {
       "id": 10,
       "name": "Parmigiani",
+      "slug": "parmigiani",
       "cost": 550,
       "quantity": 45,
       "categoryId": 1,
@@ -83,6 +102,7 @@
     {
       "id": 11,
       "name": "Christophe Claret Maestro Mamba",
+      "slug": "christophe-claret-maestro-mamba",
       "cost": 1350,
       "quantity": 30,
       "categoryId": 2,
@@ -91,6 +111,7 @@
     {
       "id": 12,
       "name": "Chronoswiss",
+      "slug": "chronoswiss",
       "cost": 1350,
       "quantity": 22,
       "categoryId": 1,
@@ -99,6 +120,7 @@
     {
       "id": 13,
       "name": "Chronoswiss",
+      "slug": "chronoswiss-2",
       "cost": 800,
       "quantity": 22,
       "categoryId": 2,
@@ -107,6 +129,7 @@
     {
       "id": 14,
       "name": "Chronoswiss Flying Grand Regulator",
+      "slug": "chronoswiss-flying-grand-regulator",
       "cost": 1000,
       "quantity": 22,
       "categoryId": 2,
