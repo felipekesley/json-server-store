@@ -29,7 +29,7 @@ function verifyToken(token){
 
 // Check if the user exists in database
 function isAuthenticated({email, password}){
-  return userdb.users.findIndex(user => user.email === email && user.password === password) !== -1
+  return userdb.users.findIndex(user => user.email === email) !== -1
 }
 
 // Register New User
@@ -40,7 +40,7 @@ server.post('/auth/register', (req, res) => {
 
   if(isAuthenticated({email, password}) === true) {
     const status = 401;
-    const message = 'Email and Password already exist';
+    const message = 'Email already exist';
     res.status(status).json({status, message});
     return
   }
