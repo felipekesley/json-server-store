@@ -37,15 +37,6 @@
       "url": "https://res.cloudinary.com/dcbqhj7nl/image/upload/v1640834520/react-commerce/clock_0004_13_jx8ahs.png"
     },
     {
-      "id": 4,
-      "name": "The Tie Guy",
-      "slug": "the-tie-guy",
-      "cost": 960,
-      "quantity": 10,
-      "categoryId": 2,
-      "url": "https://res.cloudinary.com/dcbqhj7nl/image/upload/v1640834520/react-commerce/clock_0003_14_foz7oc.png"
-    },
-    {
       "id": 5,
       "name": "Seiko astron men watch SBXB025",
       "slug": "seiko-astron-men-watch-sbxb025",
