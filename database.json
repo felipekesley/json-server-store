@@ -21,7 +21,7 @@
     {
       "id": 3,
       "name": "The Tie Guy",
-      "slug": "",
+      "slug": "the-tie-guy",
       "cost": 960,
       "quantity": 10,
       "categoryId": 2,
